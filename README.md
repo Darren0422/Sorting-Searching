@@ -13,7 +13,7 @@ The repository also discusses the real-world application of binary search in sce
 
 To install this project locally, open the repository in your web browser: [Sorting-Searching](https://github.com/Darren0422/Sorting-Searching). On the repository page, click on the green "Code" button located near the top-right of the page. From the dropdown menu, select "Download ZIP". This will start the download of the repository as a ZIP file to your computer. Save it on your local storage device. 
 
-*********** add pic
+<img width="1728" alt="Screenshot 2024-01-10 at 10 59 08" src="https://github.com/Darren0422/Sorting-Searching/assets/134398985/6f96ec79-cc50-4f6b-abd0-421e9076c594">
 
 ##  Usage
 
